@@ -1,1 +1,1 @@
-# mycodes
+This is my blog app
